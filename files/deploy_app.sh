@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Skittles's wide world of cats. 
+  Welcome to ${PREFIX}'s app. Skittles & Duchess's wide world of cats. 
   <!-- END -->
   
   </div>
